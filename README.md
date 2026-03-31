@@ -62,6 +62,6 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devxjixu/devxjixu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/devxanuu/devxjixu/output/snake.svg" alt="Snake animation" />
 
 ###
